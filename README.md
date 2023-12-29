@@ -36,12 +36,8 @@ After this, different python libraries and modules were used in order to get ans
 #### Sentiment Distribution
 ![image](https://github.com/kalp1202/Audio-Emotion-Analysis/assets/76723038/0e174582-b666-46ab-8e3f-a4a68725927f)
 
-![image](https://github.com/kalp1202/Audio-Emotion-Analysis/assets/76723038/91e52543-5602-4959-b0b6-75a33fcaaf95)
-
 #### Emotion Analysis
 ![image](https://github.com/kalp1202/Audio-Emotion-Analysis/assets/76723038/ff9e8046-3d4b-44d5-941e-02842b37dae2)
-
-![image](https://github.com/kalp1202/Audio-Emotion-Analysis/assets/76723038/27be7206-dbb2-41fc-83d1-dd339355dc18)
 
 #### Word Cloud for Joy emotion:
 ![image](https://github.com/kalp1202/Audio-Emotion-Analysis/assets/76723038/042bce39-f4ad-48bf-ab3b-d08902b9eb17)
